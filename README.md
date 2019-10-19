@@ -17,6 +17,7 @@
 6. Continua y crea una nueva clave o elige una existente si tiene una
 7. Finalmente se da click en lunch y se crea una instancia
 ## para mas detalles ver el siguiente video:
+https://www.youtube.com/watch?v=XOLvGp3cJ_o&feature=youtu.be
 
 *  Desplegar un sitio estático usando S3
 1. Da click en create new bucket
@@ -38,3 +39,5 @@ https://youtu.be/jNFKeygpt_A
 7. Finalmente le da cliick en create database
 
 ## para mas detalles ver el siguiente video:
+https://youtu.be/S5L9odCgJBY
+
